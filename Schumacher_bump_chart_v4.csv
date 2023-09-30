@@ -1,0 +1,118 @@
+Position,Driver,Nationality,Car,Points,Year
+1,Michael Schumacher,GER,Benetton Ford,92,1994
+2,Damon Hill,GBR,Williams Renault,91,1994
+3,Mika Hakkinen,FIN,McLaren Peugeot,26,1994
+4,Rubens Barrichello,BRA,Jordan Hart,19,1994
+5,David Coulthard,GBR,Williams Renault,14,1994
+6,Jacques Villeneuve,CAN,Williams Renault,81,1994
+7,Juan Pablo Montoya,COL,Williams BMW,50,1994
+8,Kimi Raikkonen,FIN,Sauber Petronas,9,1994
+9,Fernando Alonso,ESP,Renault,59,1994
+1,Michael Schumacher,GER,Benetton Renault,102,1995
+2,Damon Hill,GBR,Williams Renault,69,1995
+3,David Coulthard,GBR,Williams Renault,49,1995
+4,Mika Hakkinen,FIN,McLaren Mercedes,17,1995
+5,Rubens Barrichello,BRA,Jordan Peugeot,11,1995
+8,Jacques Villeneuve,CAN,Williams Renault,81,1995
+6,Juan Pablo Montoya,COL,Williams BMW,50,1995
+7,Kimi Raikkonen,FIN,Sauber Petronas,9,1995
+9,Fernando Alonso,ESP,Renault,59,1995
+1,Damon Hill,GBR,Williams Renault,97,1996
+2,Jacques Villeneuve,CAN,Williams Renault,78,1996
+3,Michael Schumacher,GER,Ferrari,59,1996
+4,Mika Hakkinen,FIN,McLaren Mercedes,31,1996
+5,David Coulthard,GBR,McLaren Mercedes,18,1996
+8,Rubens Barrichello,BRA,Jordan Peugeot,14,1996
+6,Juan Pablo Montoya,COL,Williams BMW,50,1996
+7,Kimi Raikkonen,FIN,Sauber Petronas,9,1996
+9,Fernando Alonso,ESP,Renault,59,1996
+1,Jacques Villeneuve,CAN,Williams Renault,81,1997
+9,Michael Schumacher,GER,Ferrari,78,1997
+2,David Coulthard,GBR,McLaren Mercedes,36,1997
+3,Mika Hakkinen,FIN,McLaren Mercedes,27,1997
+4,Damon Hill,GBR,Arrows Yamaha,7,1997
+7,Rubens Barrichello,BRA,Stewart Ford,6,1997
+6,Juan Pablo Montoya,COL,Williams BMW,50,1997
+5,Kimi Raikkonen,FIN,Sauber Petronas,9,1997
+8,Fernando Alonso,ESP,Renault,59,1997
+1,Mika Hakkinen,FIN,McLaren Mercedes,100,1998
+2,Michael Schumacher,GER,Ferrari,86,1998
+3,David Coulthard,GBR,McLaren Mercedes,56,1998
+4,Jacques Villeneuve,CAN,Williams Mecachrome,21,1998
+5,Damon Hill,GBR,Jordan Mugen Honda,20,1998
+9,Rubens Barrichello,BRA,Stewart Ford,4,1998
+6,Juan Pablo Montoya,COL,Williams BMW,50,1998
+7,Kimi Raikkonen,FIN,Sauber Petronas,9,1998
+8,Fernando Alonso,ESP,Renault,59,1998
+1,Mika Hakkinen,FIN,McLaren Mercedes,76,1999
+2,David Coulthard,GBR,McLaren Mercedes,48,1999
+3,Michael Schumacher,GER,Ferrari,44,1999
+4,Rubens Barrichello,BRA,Stewart Ford,21,1999
+7,Damon Hill,GBR,Jordan Mugen Honda,7,1999
+6,Jacques Villeneuve,CAN,Williams Mecachrome,21,1999
+9,Juan Pablo Montoya,COL,Williams BMW,50,1999
+5,Kimi Raikkonen,FIN,Sauber Petronas,9,1999
+8,Fernando Alonso,ESP,Renault,59,1999
+1,Michael Schumacher,GER,Ferrari,108,2000
+2,Mika Hakkinen,FIN,McLaren Mercedes,89,2000
+3,David Coulthard,GBR,McLaren Mercedes,73,2000
+4,Rubens Barrichello,BRA,Ferrari,62,2000
+5,Jacques Villeneuve,CAN,BAR Honda,17,2000
+6,Damon Hill,GBR,Jordan Mugen Honda,7,2000
+8,Juan Pablo Montoya,COL,Williams BMW,50,2000
+7,Kimi Raikkonen,FIN,Sauber Petronas,9,2000
+9,Fernando Alonso,ESP,Renault,59,2000
+1,Michael Schumacher,GER,Ferrari,123,2001
+2,David Coulthard,GBR,McLaren Mercedes,65,2001
+3,Rubens Barrichello,BRA,Ferrari,56,2001
+5,Mika Hakkinen,FIN,McLaren Mercedes,37,2001
+6,Juan Pablo Montoya,COL,Williams BMW,31,2001
+7,Jacques Villeneuve,CAN,BAR Honda,12,2001
+8,Kimi Raikkonen,FIN,Sauber Petronas,9,2001
+4,Damon Hill,BRA,Ferrari,62,2001
+9,Fernando Alonso,ESP,Renault,59,2001
+1,Michael Schumacher,GER,Ferrari,144,2002
+2,Rubens Barrichello,BRA,Ferrari,77,2002
+3,Juan Pablo Montoya,COL,Williams BMW,50,2002
+4,David Coulthard,GBR,McLaren Mercedes,41,2002
+6,Kimi Raikkonen,FIN,Williams Renault,81,2002
+9,Jacques Villeneuve,CAN,BAR Honda,4,2002
+7,Mika Hakkinen,FIN,McLaren Mercedes,37,2002
+5,Damon Hill,BRA,Ferrari,62,2002
+8,Fernando Alonso,ESP,Renault,59,2002
+1,Michael Schumacher,GER,Ferrari,93,2003
+2,Kimi Raikkonen,FIN,McLaren Mercedes,91,2003
+3,Juan Pablo Montoya,COL,Williams BMW,82,2003
+4,Rubens Barrichello,BRA,Ferrari,65,2003
+6,Fernando Alonso,ESP,Renault,55,2003
+8,David Coulthard,GBR,McLaren Mercedes,51,2003
+9,Jacques Villeneuve,CAN,BAR Honda,6,2003
+7,Mika Hakkinen,FIN,McLaren Mercedes,37,2003
+5,Damon Hill,BRA,Ferrari,62,2003
+1,Michael Schumacher,GER,Ferrari,148,2004
+2,Rubens Barrichello,BRA,Ferrari,114,2004
+3,Fernando Alonso,ESP,Renault,59,2004
+4,Juan Pablo Montoya,COL,Williams BMW,58,2004
+6,Kimi Raikkonen,FIN,McLaren Mercedes,45,2004
+8,David Coulthard,GBR,McLaren Mercedes,24,2004
+5,Mika Hakkinen,FIN,McLaren Mercedes,37,2004
+7,Damon Hill,GBR,Jordan Mugen Honda,7,2004
+9,Jacques Villeneuve,CAN,Renault,0,2004
+1,Fernando Alonso,ESP,Renault,133,2005
+2,Kimi Raikkonen,FIN,McLaren Mercedes,112,2005
+3,Michael Schumacher,GER,Ferrari,62,2005
+4,Juan Pablo Montoya,COL,McLaren Mercedes,60,2005
+5,Rubens Barrichello,BRA,Ferrari,38,2005
+8,David Coulthard,GBR,RBR Cosworth,24,2005
+9,Jacques Villeneuve,CAN,Sauber Petronas,9,2005
+7,Damon Hill,GBR,Jordan Mugen Honda,7,2005
+6,Mika Hakkinen,FIN,McLaren Mercedes,37,2005
+1,Fernando Alonso,ESP,Renault,134,2006
+2,Michael Schumacher,GER,Ferrari,121,2006
+3,Kimi Raikkonen,FIN,McLaren Mercedes,65,2006
+4,Rubens Barrichello,BRA,Honda,30,2006
+5,Juan Pablo Montoya,COL,McLaren Mercedes,26,2006
+8,David Coulthard,GBR,RBR Ferrari,14,2006
+9,Jacques Villeneuve,CAN,Sauber BMW,7,2006
+6,Damon Hill,GBR,Jordan Mugen Honda,7,2006
+7,Mika Hakkinen,FIN,McLaren Mercedes,37,2006
